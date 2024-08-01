@@ -6,4 +6,4 @@
 <a href="https://profile.codersrank.io/user/sunghee93">
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sunghee93&branding=false" width="500" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cbf3f0&height=120&section=footer"/>
