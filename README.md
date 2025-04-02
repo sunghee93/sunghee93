@@ -14,3 +14,4 @@
 <a href="https://github.com/sunghee93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@_baesh"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
 <a href="https://codepen.io/baesh"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/baesunghee/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
